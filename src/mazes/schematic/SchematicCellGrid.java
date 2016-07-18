@@ -1,6 +1,3 @@
-/*******************************************************************************
- * Copyright (c) 2014-2016 Radon Rosborough. All rights reserved.
- *******************************************************************************/
 package mazes.schematic;
 
 import mazes.util.DeepCopyable;
