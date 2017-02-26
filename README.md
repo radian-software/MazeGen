@@ -1,6 +1,4 @@
-# Demonstration
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4UkSArJKgSg" frameborder="0" allowfullscreen></iframe>
+Check out the video [here](https://youtu.be/4UkSArJKgSg).
 
 # General info
 
